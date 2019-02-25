@@ -1,2 +1,4 @@
 ** La première figure est le rectangle. Il a quatre côtés égaux deux à deux.
-   Voyons comment se calcule son périmètre et sa surface dans notre fichier calcul 
+   Voyons comment se calcule son périmètre et sa surface dans notre fichier calcul
+
+** Le carré est la deuxième figure que nous allons voir. Il a quatre côtés égaux. Son périmètre et sa surface sont donnés dans le fichier calcul.
