@@ -1,0 +1,2 @@
+** La première figure est le rectangle. Il a quatre côtés égaux deux à deux.
+   Voyons comment se calcule son périmètre et sa surface dans notre fichier calcul 
