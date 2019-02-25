@@ -2,3 +2,5 @@
    Voyons comment se calcule son périmètre et sa surface dans notre fichier calcul
 
 ** Le carré est la deuxième figure que nous allons voir. Il a quatre côtés égaux. Son périmètre et sa surface sont donnés dans le fichier calcul.
+
+** Le cercle sera notre dernière figure. C'est une figure dont les dimensions sont : le rayon et le diamètre. La troisième fonction affiche comment on calcul son périmètre et sa surface.
